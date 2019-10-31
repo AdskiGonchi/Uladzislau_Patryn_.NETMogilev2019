@@ -1,0 +1,11 @@
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\bin\Debug\netcoreapp3.0\Task_6.exe
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\bin\Debug\netcoreapp3.0\Task_6.deps.json
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\bin\Debug\netcoreapp3.0\Task_6.runtimeconfig.json
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\bin\Debug\netcoreapp3.0\Task_6.runtimeconfig.dev.json
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\bin\Debug\netcoreapp3.0\Task_6.dll
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\bin\Debug\netcoreapp3.0\Task_6.pdb
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\obj\Debug\netcoreapp3.0\Task_6.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\obj\Debug\netcoreapp3.0\Task_6.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\obj\Debug\netcoreapp3.0\Task_6.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\obj\Debug\netcoreapp3.0\Task_6.dll
+C:\Users\Владислав\Desktop\4 модуль\Task_6\Task_6\obj\Debug\netcoreapp3.0\Task_6.pdb
